@@ -1,0 +1,47 @@
+.navigation-block {
+    height: 139px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navigation {
+    display: flex;
+    column-gap: 50px;
+    align-items: center;
+}
+
+.navigation div {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.navigation button {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 22px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.navigation button {
+    width: 139px;
+    height: 59px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 22px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+}

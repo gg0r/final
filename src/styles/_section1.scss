@@ -1,0 +1,35 @@
+.bottom-navigation {
+    background-color: #E9E743;
+}
+
+.left-block-bottom-navigation button {
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 33px;
+    width: 174px;
+    height: 51px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.left-block-bottom-navigation button:hover {
+    background: #E9E743;
+}
+
+.navigation-bottom {
+    display: flex;
+    height: 88px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.right-block-contacts-bottom-navigation {
+    display: flex;
+    column-gap: 56px;
+}

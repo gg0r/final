@@ -1,0 +1,26 @@
+.block-patners {
+    background: #F4F4F4;
+    height: 429px;
+    display: flex;
+    align-items: center;
+}
+
+.text-partners {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 56px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.partners-pics {
+    column-gap: 91px;
+    display: flex;
+}
+
+.section3-wrapper {
+    display: grid;
+    grid-row-gap: 76px;
+}
