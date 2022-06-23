@@ -1,4 +1,4 @@
-.section2-block {
+.section2 {
     height: 891px;
     display: flex;
     align-items: center;
@@ -15,7 +15,7 @@
     color: #000000;
 }
 
-.section2-block button {
+.section2 button {
     background: #F5F5F5;
     border: 2px solid #E9E743;
     border-radius: 33px;
@@ -42,10 +42,6 @@
     background: #E9E743;
 }
 
-// .section2-block-picture {
-//     width: 1438px;
-//     height: 466px;
-// }
 .section2-wrapper {
     display: grid;
     grid-gap: 65px;

@@ -1,0 +1,127 @@
+.section6 {
+    display: flex;
+    align-items: center;
+    height: 2048px;
+}
+
+.services-block {
+    border: 1px solid rgba(33, 53, 70, 0.4);
+    width: 342px;
+    height: 378px;
+}
+
+.section6-block h1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 56px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #000000;
+    display: flex;
+    justify-content: center;
+}
+
+.services-block div {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 26px;
+    text-align: center;
+    color: #E5E5E5;
+}
+
+.services-block h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.services-block button {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    letter-spacing: 0.1em;
+    color: #1F1F1F;
+    border: 2px solid #E9E743;
+    border-radius: 10px;
+    background: #F5F5F5;
+    width: 210px;
+    height: 55px;
+}
+
+.top-services-block {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.services-block-bottom {
+    align-items: center;
+    display: grid;
+    padding-top: 52px;
+    grid-row-gap: 65px;
+    justify-content: center;
+}
+
+.top-services-pic {
+    padding-top: 52px;
+    width: 132px;
+    height: 84px;
+}
+
+.services-block button:hover {
+    background: #E9E743;
+    cursor: pointer;
+}
+
+.services-block-main {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-row-gap: 26px;
+    grid-column-gap: 24px;
+}
+
+.section-six-title {
+    margin-bottom: 88px;
+}
+
+.services-block-bottom-wrapper {
+    display: grid;
+    grid-row-gap: 36px
+}
+
+.services-button-block {
+    display: flex;
+    justify-content: space-around;
+}
+
+.services-block-bottom-wrapper h2 {
+    width: 260px;
+}
+
+.top-services-pic-car {
+    padding-top: 16px;
+    width: 172px;
+    height: 172px;
+}
+
+.services-block-bottom-seven h2 {
+    width: 340px;
+}
+
+.services-block-bottom-wrapper-two {
+    display: grid;
+    grid-row-gap: 65px
+}
