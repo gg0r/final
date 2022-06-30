@@ -1,15 +1,82 @@
-.section-seven {
-    height: 1728px;
-    background-color: rgba(240, 242, 244, 1);
-}
-
-.section-seven-title h4 {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 46px;
-    line-height: 56px;
-    text-align: center;
-    text-transform: capitalize;
-    color: #000000;
-}
+    .section-seven {
+        height: 1020px;
+        background-color: rgba(240, 242, 244, 1);
+        display: flex;
+        align-items: center;
+    }
+    
+    .section-seven-main-block {
+        display: grid;
+        grid-row-gap: 88px;
+    }
+    
+    .section-seven-title h4 {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 46px;
+        line-height: 56px;
+        text-align: center;
+        text-transform: capitalize;
+        color: #000000;
+    }
+    
+    .section-seven-bottom-block {
+        height: 338px;
+    }
+    
+    .section-seven-picture-block-one {
+        width: 464px;
+        height: 256px;
+        background-color: rgba(255, 255, 255, 1);
+    }
+    
+    .background-one {
+        background-image: url(../images/Rectangle\ 57.png);
+        background-repeat: no-repeat;
+        height: 464px;
+        background-position: 91px 66px;
+        filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.12));
+    }
+    
+    .background-one-title {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 39px;
+        text-transform: capitalize;
+        color: #000000;
+    }
+    
+    .background-one-text {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 26px;
+        text-transform: capitalize;
+        width: 411px;
+    }
+    
+    .background-two {
+        background-image: url(../images/Rectangle\ 58.png);
+        background-repeat: no-repeat;
+        height: 464px;
+        background-position: 95px 66px;
+        filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.12));
+    }
+    
+    .background-three {
+        background-image: url(../images/Rectangle\ 59.png);
+        background-repeat: no-repeat;
+        height: 464px;
+        background-position: 99px 66px;
+        filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.12));
+    }
+    
+    .section-seven-blocks-wrapper {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-column-gap: 28px;
+    }
