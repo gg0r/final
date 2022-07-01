@@ -1,0 +1,124 @@
+.section-eight {
+    height: 1287px;
+    display: grid;
+    align-items: center;
+}
+
+.section-eight-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 56px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+.section-eight-left-block {
+    width: 842px;
+    height: 884px;
+}
+
+.section-eight-right-block {
+    display: grid;
+}
+
+.section-eight-wrapper {
+    display: grid;
+    grid-row-gap: 114px;
+}
+
+.section-eight-right-block-title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #000000;
+    width: 551px;
+}
+
+.section-eight-first-row-background {
+    background-image: url(../images/Ellipse\ 3.png);
+    background-repeat: no-repeat;
+    width: 154px;
+    height: 154px;
+}
+
+.span-one {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    align-items: center;
+}
+
+.span-two {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 26px;
+    color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    align-items: center;
+}
+
+.section-eight-second-row-background {
+    background-image: url(../images/Ellipse\ 5.png);
+    background-repeat: no-repeat;
+    width: 154px;
+    height: 154px;
+}
+
+.span-three {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 26px;
+    color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    align-items: center;
+}
+
+.span-four {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 26px;
+    color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    align-items: center;
+}
+
+.section-eight-third-row-background {
+    background-image: url(../images/Ellipse\ 4.png);
+    background-repeat: no-repeat;
+    width: 154px;
+    height: 154px;
+}
+
+.section-eight-main-block {
+    display: flex;
+    column-gap: 140px;
+}
+
+.section-eight-block-row {
+    display: flex;
+    column-gap: 55px;
+    align-items: center;
+}
+
+.spans-block {
+    display: flex;
+    column-gap: 15px;
+}
