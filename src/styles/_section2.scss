@@ -1,10 +1,10 @@
-.section2 {
+.section-two {
     height: 891px;
     display: flex;
     align-items: center;
 }
 
-.section2-text h1 {
+.section-two-text h1 {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 600;
@@ -15,7 +15,7 @@
     color: #000000;
 }
 
-.section2 button {
+.section-two button {
     background: #F5F5F5;
     border: 2px solid #E9E743;
     border-radius: 33px;
@@ -33,7 +33,7 @@
     justify-content: center;
 }
 
-.button-section2 {
+.button-section-two {
     display: flex;
     justify-content: center;
 }
@@ -42,7 +42,7 @@
     background: #E9E743;
 }
 
-.section2-wrapper {
+.section-two-wrapper {
     display: grid;
     grid-gap: 65px;
 }

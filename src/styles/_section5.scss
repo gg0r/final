@@ -1,11 +1,11 @@
-.section5 {
+.section-five {
     background: #F0F2F4;
     height: 718px;
     display: flex;
     align-items: center;
 }
 
-.section5-block-title {
+.section-five-block-title {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 500;
@@ -16,17 +16,17 @@
     color: #000000;
 }
 
-.section5-main-block {
+.section-five-main-block {
     display: flex;
     column-gap: 11px;
 }
 
-.section5-wrapper {
+.section-five-wrapper {
     display: grid;
     grid-row-gap: 79px;
 }
 
-.section5-block {
+.section-five-block {
     background: #FFFFFF;
     border: 1px solid rgba(170, 170, 170, 0.2);
     width: 230px;
@@ -36,7 +36,7 @@
     align-items: center;
 }
 
-.section5-block-name {
+.section-five-block-name {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;

@@ -16,11 +16,11 @@
 }
 
 .partners-pics {
-    column-gap: 91px;
+    justify-content: space-between;
     display: flex;
 }
 
-.section3-wrapper {
+.section-three-wrapper {
     display: grid;
     grid-row-gap: 76px;
 }

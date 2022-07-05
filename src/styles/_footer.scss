@@ -1,0 +1,124 @@
+.footer {
+    background: #1F1F1F;
+    height: 568px;
+    display: flex;
+    align-items: center;
+}
+
+.footer-left-block h3 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 46px;
+    line-height: 56px;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.footer-description-block {
+    width: 762px;
+    height: 278px;
+    display: grid;
+    grid-row-gap: 40px;
+}
+
+.footer-left-block {
+    display: grid;
+    grid-row-gap: 40px;
+}
+
+.row-footer-one {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 56px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.row-footer-two {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.contacts-footer {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 40px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.footer-wrapper {
+    display: flex;
+    column-gap: 180px;
+}
+
+.footer-right-block {
+    display: flex;
+    align-items: center;
+}
+
+.facebook-circle {
+    background: #C4C4C4;
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    background-image: url(../images/fb.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.insta-circle {
+    background: #C4C4C4;
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    background-image: url(../images/insta.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.youtube-circle {
+    background: #C4C4C4;
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    background-image: url(../images/youtube.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.whatsapp-circle {
+    background: #C4C4C4;
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    background-image: url(../images/whatsapp.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.in-circle {
+    background: #C4C4C4;
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    background-image: url(../images/in.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.social-networks-footer {
+    display: flex;
+    column-gap: 17px;
+}
