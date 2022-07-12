@@ -1,5 +1,5 @@
 .section-four {
-    height: 858px;
+    padding: 89px 0 157px;
 }
 
 .section-four-middle-block h3 {
@@ -11,6 +11,7 @@
     text-align: center;
     text-transform: capitalize;
     color: #000000;
+    margin-bottom: 25px;
 }
 
 .section-four-middle-block div {
@@ -22,6 +23,7 @@
     text-align: center;
     text-transform: capitalize;
     color: #000000;
+    margin-bottom: 28px;
 }
 
 .section-four-middle-block {
@@ -31,8 +33,7 @@
 }
 
 .section-four-middle-text {
-    display: grid;
-    row-gap: 25px;
+    margin-bottom: 85px;
 }
 
 .section-four-block h4 {
@@ -67,12 +68,14 @@
 
 .section-four-block {
     width: 406px;
-    display: grid;
-    grid-row-gap: 22px;
 }
 
 .section-four-block h4 {
     margin-bottom: 39px;
+}
+
+.section-four-block h5 {
+    margin-bottom: 22px;
 }
 
 .section-four-block-wrapper {

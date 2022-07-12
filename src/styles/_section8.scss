@@ -1,7 +1,5 @@
 .section-eight {
-    height: 1287px;
-    display: grid;
-    align-items: center;
+    padding: 170px 0 155px;
 }
 
 .section-eight-title {
@@ -13,20 +11,11 @@
     text-align: center;
     text-transform: capitalize;
     color: #000000;
-}
-
-.section-eight-left-block {
-    width: 842px;
-    height: 884px;
+    margin-bottom: 114px;
 }
 
 .section-eight-right-block {
     display: grid;
-}
-
-.section-eight-wrapper {
-    display: grid;
-    grid-row-gap: 114px;
 }
 
 .section-eight-right-block-title {

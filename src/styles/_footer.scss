@@ -1,8 +1,6 @@
 .footer {
     background: #1F1F1F;
-    height: 568px;
-    display: flex;
-    align-items: center;
+    padding: 93px 0 101px;
 }
 
 .footer-left-block h3 {
@@ -14,18 +12,11 @@
     text-decoration-line: underline;
     text-transform: capitalize;
     color: #FFFFFF;
+    margin-bottom: 40px;
 }
 
 .footer-description-block {
     width: 762px;
-    height: 278px;
-    display: grid;
-    grid-row-gap: 40px;
-}
-
-.footer-left-block {
-    display: grid;
-    grid-row-gap: 40px;
 }
 
 .row-footer-one {
@@ -36,6 +27,7 @@
     line-height: 56px;
     text-transform: capitalize;
     color: #FFFFFF;
+    margin-bottom: 40px;
 }
 
 .row-footer-two {

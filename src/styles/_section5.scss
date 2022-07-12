@@ -1,8 +1,6 @@
 .section-five {
     background: #F0F2F4;
-    height: 718px;
-    display: flex;
-    align-items: center;
+    padding: 106px 0 246px;
 }
 
 .section-five-block-title {
@@ -14,16 +12,12 @@
     text-align: center;
     text-transform: capitalize;
     color: #000000;
+    margin-bottom: 79px;
 }
 
 .section-five-main-block {
     display: flex;
     column-gap: 11px;
-}
-
-.section-five-wrapper {
-    display: grid;
-    grid-row-gap: 79px;
 }
 
 .section-five-block {

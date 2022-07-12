@@ -1,13 +1,6 @@
     .section-seven {
-        height: 1020px;
+        padding: 164px 0 155px;
         background-color: rgba(240, 242, 244, 1);
-        display: flex;
-        align-items: center;
-    }
-    
-    .section-seven-main-block {
-        display: grid;
-        grid-row-gap: 88px;
     }
     
     .section-seven-title h4 {
@@ -19,6 +12,7 @@
         text-align: center;
         text-transform: capitalize;
         color: #000000;
+        margin-bottom: 88px;
     }
     
     .section-seven-bottom-block {

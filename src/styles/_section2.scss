@@ -1,7 +1,5 @@
 .section-two {
-    height: 891px;
-    display: flex;
-    align-items: center;
+    padding: 75px 0;
 }
 
 .section-two-text h1 {
@@ -13,6 +11,7 @@
     text-align: center;
     text-transform: capitalize;
     color: #000000;
+    padding-bottom: 59px;
 }
 
 .section-two button {
@@ -36,13 +35,9 @@
 .button-section-two {
     display: flex;
     justify-content: center;
+    margin-bottom: 82px;
 }
 
 .button-section2 button:hover {
     background: #E9E743;
-}
-
-.section-two-wrapper {
-    display: grid;
-    grid-gap: 65px;
 }
